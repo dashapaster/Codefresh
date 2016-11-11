@@ -14,7 +14,8 @@ About forking:
     Thant why in my case the second application would look the same as a first one
 
 Running:
-1. open command line
-2. run application: java -jar FirstApp.jar
-3. you can see all log's files in the folder where FirstApp.jar was saved.
-4. every new process create log's file.
+1. download FirstApp.jar
+2. open command line
+3. run application: java -jar FirstApp.jar
+4. you can see all log's files in the folder where FirstApp.jar was saved.
+5. every new process create log's file.
